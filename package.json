@@ -1,0 +1,22 @@
+{
+  "name": "Translator",
+  "version": "1.0.0",
+  "description": "Simple words translator using translate.yandex API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.5",
+    "request": "^2.72.0"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/drozd16242283"
+  }
+}
