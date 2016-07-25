@@ -1,0 +1,13 @@
+{
+    "port": 8000,
+    "url": {
+        "protocol": "https",
+        "hostname": "translate.yandex.net",
+        "pathname": "api/v1.5/tr.json/translate",
+        "APIkey": "trnsl.1.1.20160612T104726Z.a22895cbe4a4da20.6103336416b3e450ecfe33ebd6be77041eda1969"
+    },
+    "hbs": {
+        "layouts": "app/views/layouts",
+        "views": "app/views"
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "camelcase": true,
+  "curly": true,
+  "immed": false,
+  "latedef": false,
+  "undef": true,
+  "unused": true,
+  "maxparams" : false,
+  "maxdepth" : false,
+  "maxlen" : false,
+  "node": true,
+  "esversion": 6
+}
